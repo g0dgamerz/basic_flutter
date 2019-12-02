@@ -1,0 +1,6 @@
+Applying a BLOC
+
+single global instance is possibly ok for small application
+
+
+Scoped Instance is possibly better for large application
